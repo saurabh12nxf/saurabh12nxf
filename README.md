@@ -1,3 +1,8 @@
+![github-header-image](https://github.com/user-attachments/assets/d4bf0c1d-d8c2-48b0-af04-9dc2dbb3b5aa)
+
+
+
+
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
 <h3 align="center">🌟 Web Enthusiast | 💡 Java Maestro | 🎨 Building Digital Masterpieces with HTML, CSS, and JavaScript | 🚀 Innovating One Line of Code at a Time</h3>
 
