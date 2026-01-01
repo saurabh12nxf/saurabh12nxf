@@ -1,3 +1,16 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=250&section=header&text=Saurabh%20Singh&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20AI%20&%20ML%20Engineer&descAlignY=51&descAlign=50" alt="Header" width="100%"/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Building+Interactive+Dashboards;Training+AI+Models;Exploring+Three.js+Visualization;Crafting+Digital+Experiences" alt="Typing SVG" />
+  </a>
+
+  
+</div>
+
+<br/>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Building robust AI/ML applications and sharpening my problem-solving skills through personal coding challenges.<br><br>👯 I’m looking to collaborate on Open Source for Good. I want to use my skills to build software that helps people. If you have a project that needs a dedicated contributor, hit me up!<br><br>🤝 I’m looking for help with Navigating the open-source ecosystem. I am looking for mentorship on how to make my first major contribution to a large-scale project.<br><br>🌱 I’m currently learning The concurrency patterns of Go and the mathematics behind neural networks.<br><br>💬 Ask me about Python, Data Structures, or my latest ML model training results.<br><br>⚡ Fun fact I speak three languages: English, Python, and I'm currently struggling through Go! 🐹
 
@@ -12,16 +25,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=saurabh12nxf&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh12nxf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saurabh12nxf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saurabh12nxf&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saurabh12nxf&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
