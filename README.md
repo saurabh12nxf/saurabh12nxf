@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=250&section=header&text=Saurabh%20Singh&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20AI%20&%20ML%20Engineer&descAlignY=51&descAlign=50" alt="Header" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Building+Interactive+Dashboards;Training+AI+Models;Exploring+Three.js+Visualization;Crafting+Digital+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Building+Interactive+Dashboards;Training+AI+Models;Crafting+Digital+Experiences" alt="Typing SVG" />
   </a>
 
   
