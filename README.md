@@ -12,7 +12,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Building robust AI/ML applications and sharpening my problem-solving skills through personal coding challenges.<br><br>👯 I’m looking to collaborate on Open Source for Good. I want to use my skills to build software that helps people. If you have a project that needs a dedicated contributor, hit me up!<br><br>🤝 I’m looking for help with Navigating the open-source ecosystem. I am looking for mentorship on how to make my first major contribution to a large-scale project.<br><br>🌱 I’m currently learning The concurrency patterns of Go and the mathematics behind neural networks.<br><br>💬 Ask me about Python, Data Structures, or my latest ML model training results.<br><br>⚡ Fun fact I speak three languages: English, Python, and I'm currently struggling through Go! 🐹
+🔭 I’m currently working on Building robust AI/ML applications and sharpening my problem-solving skills through personal coding challenges.<br><br>👯 I’m looking to collaborate on Open Source for Good. I want to use my skills to build software that helps people. If you have a project that needs a dedicated contributor, hit me up!<br><br>🤝 I’m looking for help with Navigating the open-source ecosystem. I am looking for mentorship on how to make my first major contribution to a large-scale project.<br><br>🌱 I’m currently learning The concurrency patterns of Go and the mathematics behind neural networks.<br><br>💬 Ask me about Python, Data Structures, or my latest ML model training results.<br><br>⚡ Fun fact I speak three languages: English, Python, and I'm currently struggling through Go!🐹
 
 
 ## 🌐 Socials:
